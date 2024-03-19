@@ -1,25 +1,27 @@
 <h1 align="center">Hi , welcome my profile </h1>
 
- <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
+<img align="left" src="pro.gif" width="310" /> 
 
 
 
-### *about me*
-<br>
+<h2 align="center">
+ 
+***about me***
 
-  ☁️ **I'm a guy from iran**
+ 
+   **I'm a guy from iran**
   
   <br>
 
-  ☁️ **I’m currently working on cybersecurity**
+   **I’m currently working on cybersecurity**
 
   <br>
 
-  ☁️ **Working as script Developer**
+   **Working as script Developer**
   
   <br>
-
-<br> <br>
+  <br>
+</h2>
 
 ###  ✦  Programming Languages 
 
@@ -28,6 +30,7 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+</p>
 
 ###  ✦  Databases and Cloud Hosting 
 
@@ -53,7 +56,6 @@
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
-<img align="left" src="7c84d57a140626abb5987fd6055c4fca.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <!-- ###  ✦ 「 My activities 」
 
 <br>
