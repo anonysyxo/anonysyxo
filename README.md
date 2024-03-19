@@ -7,7 +7,8 @@
 <h2 align="center">
  
 ***about me***
-
+<br>
+ <br>  
  
    **I'm a guy from iran**
   
@@ -20,7 +21,7 @@
    **Working as script Developer**
   
   <br>
-  <br>  <br>
+  
 </h2>
 
 ###  ✦  Programming Languages 
