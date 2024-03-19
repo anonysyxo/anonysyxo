@@ -1,27 +1,26 @@
-<h1 align="center">Hi , I'm Syxo</h1>
-
-<h3 align="center">A passionate frontend developer from iran</h3>
+<h1 align="center">Hi , welcome my profile </h1>
 
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 
 
-### *My Topic*
+### *about me*
+<br>
 
-  ⚡ Fun fact **i think i am noob**
-
-  🔭 I’m currently working on **test**
-
-  🌱 I’m currently learning **cybersecurity**
-
-  ⚡ Fun fact **i think i am noob**
-
-  ⚡ Fun fact **i think i am noob**
+  ☁️ **I'm a guy from iran**
   
-  ⚡ Fun fact **i think i am noob**
+  <br>
+
+  ☁️ **I’m currently working on cybersecurity**
+
+  <br>
+
+  ☁️ **Working as script Developer**
+  
+  <br>
 
 <br>
 
-###  ✦ 「 Programming Languages 」
+###  ✦  Programming Languages 
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
@@ -29,14 +28,13 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 
-###  ✦ 「 Databases and Cloud Hosting 」
+###  ✦  Databases and Cloud Hosting 
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
 </p>
 
-###  ✦ 「 Software and Tools 」
+###  ✦  Software and Tools 
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
@@ -48,7 +46,7 @@
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
 </p>
 
-###  ✦ 「 Workspace 」
+###  ✦  Workspace 
 <p>
     <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBookpro-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
