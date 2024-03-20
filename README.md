@@ -1,6 +1,6 @@
 <h1 align="center">Hi , welcome my profile </h1>
 
-<img align="left" src="pro.gif" width="310" /> 
+<img align="left" src="pro.gif" width="300" /> 
 
 
 
@@ -14,11 +14,11 @@
   
   <br>
 
-   **I’m currently working on cybersecurity**
+   **I’m currently learning cybersecurity**
 
   <br>
 
-   **Working as script Developer**
+   **Working as malware Developer**
   
   <br>
   <br>
