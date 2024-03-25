@@ -1,27 +1,12 @@
-<h1 align="center">Hi , welcome my profile </h1>
+<h1 align="center">about me</h1>
+<h2 align="left">
 
-<img align="left" src="pro.gif" width="300" /> 
-
-
-
-<h2 align="center">
- 
-***about me***
-<br>
- <br>  
- 
    **I'm a guy from iran**
   
-  <br>
-
    **I’m currently learning cybersecurity**
 
-  <br>
-
    **Working as malware Developer**
-  
-  <br>
-  <br>
+
 </h2>
 
 ###  ✦  Programming Languages 
@@ -30,7 +15,6 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 </p>
 
 ###  ✦  Databases and Cloud Hosting 
@@ -42,7 +26,6 @@
 ###  ✦  Software and Tools 
 
 <p>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
@@ -57,7 +40,7 @@
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
-<!-- ###  ✦ 「 My activities 」
+###  ✦ My activities 
 
 <br>
 
@@ -66,4 +49,4 @@
   </a>
 </div>
 
-<div> -->
+<div>
