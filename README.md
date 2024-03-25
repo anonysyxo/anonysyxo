@@ -1,14 +1,3 @@
-<h1 align="center">about me</h1>
-<h2 align="left">
-
-   **I'm a guy from iran**
-  
-   **I’m currently learning cybersecurity**
-
-   **Working as malware Developer**
-
-</h2>
-
 ###  ✦  Programming Languages 
 
 <p>
@@ -39,14 +28,3 @@
     <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBookpro-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
-
-###  ✦ My activities 
-
-<br>
-
-  <a href="https://github.com/Pepyn0">
-    <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=anonysyxo&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-</div>
-
-<div>
